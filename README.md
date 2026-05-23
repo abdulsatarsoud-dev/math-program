@@ -20,8 +20,6 @@ A collection of beginner Python programs for basic math calculations. Built to p
    
    Calculates simple interest based on principal, rate and time.
 
-## Tools used
-VsCode|Git|Github
-## Built with
--Python 3.x
+### 🛠 Skills & Tools
+Python | Git | Github | Vs Code
 
