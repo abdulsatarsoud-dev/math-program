@@ -22,4 +22,6 @@ A collection of beginner Python programs for basic math calculations. Built to p
 
 ### 🛠 Skills & Tools
 Python | Git | Github | Vs Code
+---
 
+*"Code it. Break it. Fix it. Let's go!"*
